@@ -24,28 +24,104 @@
 ---
 ---
 
-<h2>🚀 Tentang Saya</h2>
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        Saya adalah seorang <b>Pelajar Kelas 2 SMK</b> yang berdedikasi sebagai pengembang web profesional dengan fokus pada <b>High-Performance Applications</b>. 
-        Saya mengombinasikan struktur kode yang bersih dengan optimasi performa maksimal untuk menciptakan solusi digital yang berdampak luas.
-      </p>
-      <ul>
-        <li>🔭 Fokus saat ini: Membangun ekosistem bisnis digital dan portal publik.</li>
-        <li>🌱 Riset mendalam: <b>Artificial Intelligence</b> & <b>Machine Learning</b>.</li>
-        <li>⚡ Keahlian khusus: Web Optimization, Modular Architecture, & RBAC System.</li>
-      </ul>
-      <p>
-        <i>"Bukan tentang seberapa cepat kamu sampai, tapi tentang seberapa besar dampak yang kamu buat selama perjalanan. Teruslah belajar, karena teknologi tidak pernah berhenti berevolusi."</i> ✨
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="gambar.jpg" />
-    </td>
-  </tr>
+<h1 align="center">
+  🚀 About Me
+</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Tech+Enthusiast;Building+Modern+%26+High+Performance+Applications;Laravel+%2B+React+%2B+Next.js+Developer;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Rafael%20Abimanyu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Hello World
+
+Saya adalah seorang **Web Developer & Tech Enthusiast** yang berfokus pada pembangunan aplikasi modern dengan performa tinggi, desain elegan, dan arsitektur yang scalable.
+
+Saya senang membangun sistem digital yang tidak hanya terlihat menarik, tetapi juga memiliki struktur kode yang bersih, aman, dan mudah dikembangkan.
+
+<br>
+
+## ⚡ Current Focus
+
+- 🚀 High-Performance Web Applications
+- 🏢 Digital Business Ecosystem
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔐 Authentication & RBAC System
+- 🎨 Modern UI/UX Experience
+- ☁ Deployment & Optimization
+
+<br>
+
+## 🧠 Developer Philosophy
+
+> *"Technology evolves every day — and so do I.  
+> Keep learning, keep building, and keep creating impact."* ✨
+
+<br>
+
+## 📊 Developer Highlights
+
+<p align="left">
+  ✨ Clean & Maintainable Code <br>
+  ⚡ Performance Optimization <br>
+  🧩 Modular Architecture <br>
+  📱 Responsive Design <br>
+  🔒 Secure Authentication <br>
+  ☁ Modern Deployment Workflow
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+  src="gambar.jpg"
+  width="320"
+  style="border-radius:20px; box-shadow:0 0 25px rgba(37,99,235,0.5);" 
+/>
+
+<br><br>
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&no-frame=true&row=1&column=3"
+  width="100%"
+/>
+
+<br>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+  width="100%"
+/>
+
+</td>
+</tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"
+  />
+</p>
 
 ---
 
