@@ -22,23 +22,32 @@
 </p>
 
 ---
+---
 
 <h2>🚀 Tentang Saya</h2>
 <table>
   <tr>
     <td width="60%">
-      <p>Saya adalah seorang pengembang web profesional yang fokus pada <b>High-Performance Applications</b>. Saya mengombinasikan struktur kode yang bersih dengan optimasi performa maksimal untuk menciptakan pengalaman pengguna yang mulus.</p>
+      <p>
+        Saya adalah seorang <b>Pelajar Kelas 2 SMK</b> yang berdedikasi sebagai pengembang web profesional dengan fokus pada <b>High-Performance Applications</b>. 
+        Saya mengombinasikan struktur kode yang bersih dengan optimasi performa maksimal untuk menciptakan solusi digital yang berdampak luas.
+      </p>
       <ul>
         <li>🔭 Fokus saat ini: Membangun ekosistem bisnis digital dan portal publik.</li>
         <li>🌱 Riset mendalam: <b>Artificial Intelligence</b> & <b>Machine Learning</b>.</li>
         <li>⚡ Keahlian khusus: Web Optimization, Modular Architecture, & RBAC System.</li>
       </ul>
+      <p>
+        <i>"Bukan tentang seberapa cepat kamu sampai, tapi tentang seberapa besar dampak yang kamu buat selama perjalanan. Teruslah belajar, karena teknologi tidak pernah berhenti berevolusi."</i> ✨
+      </p>
     </td>
     <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabimanyu&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
