@@ -1,13 +1,24 @@
 <h1 align="center">Halo, Saya Rafael Abimanyu 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Web+Developer;Laravel+Enthusiast;UI%2FUX+Focused;Building+Modern+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Web+Developer;Laravel+Enthusiast;Performance+Specialist;Building+Modern+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Jakarta,%20Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat-square" />
+</p>
+
+---
+
+<h2 align="center">🏅 National Achievement</h2>
+<p align="center">
+  <a href="https://jagoanhosting.com">
+    <img src="https://img.shields.io/badge/Runner--up%20(2nd%20Place)-National%20Web%20Optimization%20Competition-FFD700?style=for-the-badge&logo=target&logoColor=black" />
+  </a>
+  <br/>
+  <i>Berhasil meraih Juara 2 Nasional dalam kompetisi mengoptimasi website yang diselenggarakan oleh <b>Jagoan Hosting</b> di Surabaya.</i>
 </p>
 
 ---
@@ -16,11 +27,11 @@
 <table>
   <tr>
     <td width="60%">
-      <p>Saya adalah seorang pengembang web yang fokus membangun aplikasi modern, profesional, dan interaktif. Saya sangat menyukai struktur kode yang bersih (clean code) dan desain antarmuka yang elegan.</p>
+      <p>Saya adalah seorang pengembang web profesional yang fokus pada <b>High-Performance Applications</b>. Saya mengombinasikan struktur kode yang bersih dengan optimasi performa maksimal untuk menciptakan pengalaman pengguna yang mulus.</p>
       <ul>
-        <li> telescope: Sedang mengerjakan: <b>E-Aspirasi</b> & <b>Net-Library</b></li>
-        <li>🌱 Terus mendalami: <b>Artificial Intelligence</b> & <b>Machine Learning</b></li>
-        <li>⚡ Karakteristik: Menghargai modularitas dan dokumentasi yang rapi.</li>
+        <li>🔭 Fokus saat ini: Membangun ekosistem bisnis digital dan portal publik.</li>
+        <li>🌱 Riset mendalam: <b>Artificial Intelligence</b> & <b>Machine Learning</b>.</li>
+        <li>⚡ Keahlian khusus: Web Optimization, Modular Architecture, & RBAC System.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -40,6 +51,48 @@
 
 ---
 
+<h2>🌟 Proyek Pilihan</h2>
+
+<h3>💼 Business & Enterprise</h3>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>Rooterin</b><br/>
+      <i>Official Business Website for Rooterin services.</i><br/>
+      <code>Business</code> <code>UI/UX</code>
+    </td>
+    <td width="50%">
+      <b>Rooterin Invoice</b><br/>
+      <i>Internal Operating System & Billing Management.</i><br/>
+      <code>OS</code> <code>Accounting</code> <code>Invoicing</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Propertiku</b><br/>
+      <i>Real estate management and listing platform.</i><br/>
+      <code>Property</code> <code>Listing</code>
+    </td>
+    <td width="50%">
+      <b>E-Aspirasi</b><br/>
+      <i>Public Aspiration Portal with RBAC.</i><br/>
+      <code>Gov-Tech</code> <code>Laravel</code>
+    </td>
+  </tr>
+</table>
+
+<h3>🏫 Educational Institutions</h3>
+<table width="100%">
+  <tr>
+    <td width="25%"><b>Politeknik Prestasi Prima</b></td>
+    <td width="25%"><b>SMA Prestasi Prima</b></td>
+    <td width="25%"><b>SMK Prestasi Prima</b></td>
+    <td width="25%"><b>SMPN 283 Jakarta</b></td>
+  </tr>
+</table>
+
+---
+
 <h2>📊 Statistik GitHub</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelabimanyu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="190" />
@@ -49,24 +102,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelabimanyu&theme=tokyonight&no-bg=true&margin-w=4" alt="trophy" />
 </p>
-
----
-
-<h2>🌟 Proyek Unggulan</h2>
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>E-Aspirasi</b><br/>
-      <i>Public Aspiration Portal</i><br/>
-      <code>Laravel</code> <code>MySQL</code> <code>Tailwind</code>
-    </td>
-    <td align="center" width="50%">
-      <b>Net-Library</b><br/>
-      <i>Modern Library System</i><br/>
-      <code>PHP</code> <code>Modular</code> <code>RBAC</code>
-    </td>
-  </tr>
-</table>
 
 ---
 
