@@ -51,10 +51,13 @@
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,tailwind,bootstrap,git,github,vscode,linux,html,css&theme=dark" />
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,alpinejs,nodejs,express,php,laravel,python,mysql,tailwind,bootstrap,git,github,vscode,linux&theme=dark" 
+    />
   </a>
 </p>
 
