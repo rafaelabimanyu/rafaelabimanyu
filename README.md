@@ -42,7 +42,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelabimanyu&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="gambar.jpg" />
     </td>
   </tr>
 </table>
