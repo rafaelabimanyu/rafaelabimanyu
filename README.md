@@ -51,135 +51,100 @@
 
 ---
 
-<!-- =========================
-💻 Languages
-========================= -->
-<h2 align="center">💻 Languages</h2>
+
+<table align="center">
+<tr>
+
+<td valign="top" width="50%">
+
+<h3 align="center">💻 Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cpp,cs&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-⚡ Frameworks
-========================= -->
-<h2 align="center">⚡ Frameworks</h2>
+<h3 align="center">⚡ Frameworks</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,alpinejs&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,alpinejs&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-🎨 UI Libraries
-========================= -->
-<h2 align="center">🎨 UI Libraries</h2>
+<h3 align="center">🎨 UI & Styling</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-🧩 Libraries & Packages
-========================= -->
-<h2 align="center">🧩 Libraries & Packages</h2>
+<h3 align="center">🧩 Libraries & Packages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=npm,vite,redux&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=npm,vite,redux,jquery&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-🗄 Databases
-========================= -->
-<h2 align="center">🗄 Databases</h2>
+<h3 align="center">🗄 Databases</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-🛠 Tools
-========================= -->
-<h2 align="center">🛠 Tools</h2>
+</td>
+
+<td valign="top" width="50%">
+
+<h3 align="center">🛠 Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-☁ Deployment
-========================= -->
-<h2 align="center">☁ Deployment</h2>
+<h3 align="center">☁ Deployment</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-🔧 DevOps
-========================= -->
-<h2 align="center">🔧 DevOps</h2>
+<h3 align="center">🔧 DevOps</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=docker,nginx,githubactions,bash&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,bash&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-📱 Mobile
-========================= -->
-<h2 align="center">📱 Mobile</h2>
+<h3 align="center">📱 Mobile</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=flutter,kotlin&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=flutter,kotlin&theme=dark" />
   </a>
 </p>
 
-<!-- =========================
-🤖 AI / ML
-========================= -->
-<h2 align="center">🤖 AI / ML</h2>
+<h3 align="center">🤖 AI / ML</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" 
-    />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
   </a>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
