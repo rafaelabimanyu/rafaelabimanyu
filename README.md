@@ -51,12 +51,132 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<!-- =========================
+💻 Languages
+========================= -->
+<h2 align="center">💻 Languages</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,alpinejs,nodejs,express,php,laravel,python,mysql,tailwind,bootstrap,git,github,vscode,linux&theme=dark" 
+      src="https://skillicons.dev/icons?i=html,css,js,ts,php,python&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+⚡ Frameworks
+========================= -->
+<h2 align="center">⚡ Frameworks</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=react,nextjs,laravel,nodejs,express,alpinejs&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+🎨 UI Libraries
+========================= -->
+<h2 align="center">🎨 UI Libraries</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+🧩 Libraries & Packages
+========================= -->
+<h2 align="center">🧩 Libraries & Packages</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=npm,vite,redux&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+🗄 Databases
+========================= -->
+<h2 align="center">🗄 Databases</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+🛠 Tools
+========================= -->
+<h2 align="center">🛠 Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+☁ Deployment
+========================= -->
+<h2 align="center">☁ Deployment</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+🔧 DevOps
+========================= -->
+<h2 align="center">🔧 DevOps</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=docker,nginx,githubactions,bash&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+📱 Mobile
+========================= -->
+<h2 align="center">📱 Mobile</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=flutter,kotlin&theme=dark" 
+    />
+  </a>
+</p>
+
+<!-- =========================
+🤖 AI / ML
+========================= -->
+<h2 align="center">🤖 AI / ML</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" 
     />
   </a>
 </p>
