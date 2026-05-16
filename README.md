@@ -276,14 +276,3 @@ Saya senang membangun sistem digital yang tidak hanya terlihat menarik, tetapi j
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rafaelabimanyu&theme=tokyonight&no-bg=true&margin-w=4" alt="trophy" />
 </p>
-
----
-
-<h2>🐍 Kontribusi</h2>
-<p align="center">
-  <img src="https://github.com/rafaelabimanyu/rafaelabimanyu/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-May%202026-orange?style=flat-square" />
-</p>
