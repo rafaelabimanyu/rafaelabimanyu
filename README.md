@@ -253,6 +253,16 @@ Saya senang membangun sistem digital yang tidak hanya terlihat menarik, tetapi j
       <code>Gov-Tech</code> <code>Laravel</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <b>EventHub</b><br/>
+      <i>Event management and ticketing platform.</i><br/>
+      <code>Event</code> <code>Management</code> <code>Platform</code>
+    </td>
+    <td width="50%">
+      <!-- Slot kosong untuk proyek berikutnya agar layout tetap simetris -->
+    </td>
+  </tr>
 </table>
 
 <h3>🏫 Educational Institutions</h3>
