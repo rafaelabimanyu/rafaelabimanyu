@@ -112,7 +112,8 @@ Saya senang membangun sistem digital yang tidak hanya terlihat menarik, tetapi j
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true"
+    src="https://ghchart.rshah.org/216e39/YOURUSERNAME" 
+    alt="GitHub Contributions Chart"
     width="100%"
   />
 </p>
