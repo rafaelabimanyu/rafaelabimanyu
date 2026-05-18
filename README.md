@@ -85,7 +85,7 @@ Saya senang membangun sistem digital yang tidak hanya terlihat menarik, tetapi j
 <td width="40%" align="center">
 
 <img 
-  src="gambar.jpg"
+  src="image.png"
   width="320"
   style="border-radius:20px; box-shadow:0 0 25px rgba(37,99,235,0.5);" 
 />
