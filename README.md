@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Saya Rafael Abimanyu 👋</h1>
+<h1 align="center">Hallo, Saya Rafael Abimanyu 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Web+Developer;Laravel+Enthusiast;Performance+Specialist;Building+Modern+Solutions" alt="Typing SVG" />
